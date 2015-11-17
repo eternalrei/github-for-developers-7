@@ -1,4 +1,0 @@
-- [ ] Dezarae Brown
-     - [ ] **Maine**
-     - [ ] **Anything Edible**
-     - [ ] Gaming
